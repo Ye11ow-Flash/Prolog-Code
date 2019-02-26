@@ -13,4 +13,4 @@ Alexander  is an banker. Arthur is his son who is jobless and irresponsible part
 Holder and Stevenson were equal partners in “Holder & Stevenson, of Threadneedle Street”, but due to greediness Holder killed Stevenson to become the only owner of the company. Alexander adopted her niece Mary and kept her like his own daughter. But after knowing the truth, Mary along with Stevensons best friend Albert  planned to destroy Alexander Holder. 
 Mary’s boyfriend Burnwell formed friendship with Alexander’s son Arthur. Eventually when Arthur came to know that Burnwell and Mary are planning to destroy his father he tried to confront Burnwell. For this reason Burnwell killed Arthur.
 ### Output :
-![murder_mystery](https://github.com/Ye11ow-Flash/Prolog-Code/blob/master/Output/Output_Murder-Robbery_Mystery_Case.PNG)
+![murder_mystery](https://github.com/kaushal18/Prolog-Code/blob/master/Output/output_murder_mystery.png)
